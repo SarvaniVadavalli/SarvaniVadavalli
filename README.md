@@ -45,7 +45,7 @@
 ```javascript
 const sarvani = {
   name     : "Sarvani Vadavalli",
-  role     : ["AIML Student", "Aspiring Software Engineer"],
+  role     : ["CS Student","AI/ML Enthusiast", "FullStack Developer"],
   location : "India 🇮🇳",
 
   currentlyLearning : [
@@ -55,17 +55,12 @@ const sarvani = {
     "Machine Learning",
   ],
 
-  interests : [
-    "Artificial Intelligence",
-    "Deep Learning",
-    "Full Stack Development",
-  ],
-
-  goals : [
-    "Internships",
-    "Open Source Contributions",
-    "Big Tech  →  Google · Microsoft · Amazon · Pinterest",
-  ],
+ goals: [
+  "Software Engineering Internships",
+  "Open Source Contributions",
+  "Building AI-Powered Applications",
+  "Big Tech Opportunities"
+],
 
   funFact : "Debugging is just detective work 🕵️",
 };
@@ -91,8 +86,6 @@ const sarvani = {
 | 01 | [**UniMeet**](#) | Full-stack MERN application enabling students to connect and collaborate through a unified campus platform. | `MongoDB` `Express` `React` `Node.js` |
 | 02 | [**Deep-Fake-Project**](#) | Python-based project demonstrating core programming concepts and practical problem-solving techniques. | `Python` |
 | 03 | [**DBMS-Hospital-Management**](#) | Database system for managing hospital operations, patient records, and staff workflows. | `SQL` `DBMS` |
-| 04 | *Coming Soon* | — | — |
-| 05 | *Coming Soon* | — | — |
 
 </div>
 
