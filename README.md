@@ -12,11 +12,11 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0d2144,100:0d1117&height=160&section=header&text=Sarvani%20Vadavalli&fontSize=46&fontColor=E6EDF3&fontAlignY=42&desc=AIML%20Student%20%7C%20Aspiring%20Software%20Engineer&descSize=16&descColor=C0C0C0&descAlignY=64&animation=fadeIn" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:1A0E00,70:2B1A00,100:0D1117&height=160&section=header&text=Sarvani%20Vadavalli&fontSize=46&fontColor=C8A96E&fontAlignY=42&desc=AIML%20Student%20%7C%20Aspiring%20Software%20Engineer&descSize=16&descColor=A08040&descAlignY=64&animation=fadeIn" width="100%" alt="Header" />
 
 <!-- Typing SVG -->
 <a href="https://github.com/SarvaniVadavalli">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&pause=1200&color=89B4FA&center=true&vCenter=true&width=560&lines=Building+toward+Big+Tech;AIML+%7C+Full+Stack+%7C+DSA;Open+to+Internships+%26+Collaborations;Always+learning%2C+always+growing." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&pause=1200&color=C8A96E&center=true&vCenter=true&width=560&lines=Building+toward+Big+Tech;AIML+%7C+Full+Stack+%7C+DSA;Open+to+Internships+%26+Collaborations;Always+learning%2C+always+growing." alt="Typing SVG" />
 </a>
 
 <br/>
@@ -26,24 +26,26 @@
 <!-- NOTE: Replace the Gmail address below with your actual email         -->
 
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=C8A96E" alt="LinkedIn"/>
 </a>
 &nbsp;
 <a href="mailto:YOUR.EMAIL@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-333333?style=flat-square&logo=gmail&logoColor=EA4335" alt="Gmail"/>
+  <img src="https://img.shields.io/badge/Gmail-0D1117?style=flat-square&logo=gmail&logoColor=C8A96E" alt="Gmail"/>
 </a>
 &nbsp;
 <a href="https://github.com/SarvaniVadavalli" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-21262D?style=flat-square&logo=github&logoColor=C0C0C0" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=C8A96E" alt="GitHub"/>
 </a>
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=SarvaniVadavalli&label=Profile+Views&color=6C8EBF&style=flat-square" alt="Visitor Counter"/>
+<img src="https://komarev.com/ghpvc/?username=SarvaniVadavalli&label=Profile+Views&color=8B6914&style=flat-square" alt="Visitor Counter"/>
 
 </div>
 
 <br/>
 
----
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1A0E00,100:0D1117&height=1" width="80%"/></div>
+
+<br/>
 
 <!-- ─── ABOUT ME ────────────────────────────────────────────────────────────── -->
 
@@ -82,7 +84,9 @@ const sarvani = {
 
 <br/>
 
----
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1A0E00,100:0D1117&height=1" width="80%"/></div>
+
+<br/>
 
 <!-- ─── FEATURED PROJECTS ───────────────────────────────────────────────────── -->
 
@@ -97,17 +101,19 @@ const sarvani = {
 
 | &nbsp; | Project | Description | Stack |
 |:---:|:---|:---|:---|
-| 01 | [**UniMeet**](#) | Full-stack MERN application enabling students to connect and collaborate through a unified campus platform. | `MongoDB` `Express` `React` `Node.js` |
-| 02 | [**Deep-Fake-Project**](#) | Python-based project demonstrating core programming concepts and practical problem-solving techniques. | `Python` |
-| 03 | [**DBMS-Hospital-Management**](#) | Database system for managing hospital operations, patient records, and staff workflows. | `SQL` `DBMS` |
-| 04 | *Coming Soon* | — | — |
-| 05 | *Coming Soon* | — | — |
+| `01` | [**UniMeet**](#) | Full-stack MERN application enabling students to connect and collaborate through a unified campus platform. | `MongoDB` `Express` `React` `Node.js` |
+| `02` | [**Deep-Fake-Project**](#) | Python-based project demonstrating core programming concepts and practical problem-solving techniques. | `Python` |
+| `03` | [**DBMS-Hospital-Management**](#) | Database system for managing hospital operations, patient records, and staff workflows. | `SQL` `DBMS` |
+| `04` | *Coming Soon* | — | — |
+| `05` | *Coming Soon* | — | — |
 
 </div>
 
 <br/>
 
----
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1A0E00,100:0D1117&height=1" width="80%"/></div>
+
+<br/>
 
 <!-- ─── TECH STACK ──────────────────────────────────────────────────────────── -->
 
@@ -145,7 +151,9 @@ const sarvani = {
 
 <br/>
 
----
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1A0E00,100:0D1117&height=1" width="80%"/></div>
+
+<br/>
 
 <!-- ─── GITHUB STATS ────────────────────────────────────────────────────────── -->
 
@@ -156,10 +164,10 @@ const sarvani = {
 <div align="center">
 
 <!-- GitHub Streak -->
-<img src="https://streak-stats.demolab.com?user=SarvaniVadavalli&hide_border=true&background=0D1117&ring=89B4FA&fire=6C8EBF&currStreakLabel=89B4FA&sideLabels=C0C0C0&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=6C8EBF&stroke=21262D" alt="GitHub Streak" width="49%" />
+<img src="https://streak-stats.demolab.com?user=SarvaniVadavalli&hide_border=true&background=0D1117&ring=C8A96E&fire=8B6914&currStreakLabel=C8A96E&sideLabels=A08040&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=5A4020&stroke=1A0E00" alt="GitHub Streak" width="49%" />
 
 <!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=SarvaniVadavalli&show_icons=true&hide_border=true&bg_color=0D1117&title_color=89B4FA&icon_color=6C8EBF&text_color=C0C0C0&rank_icon=github" alt="GitHub Stats" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=SarvaniVadavalli&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C8A96E&icon_color=8B6914&text_color=A08040&rank_icon=github" alt="GitHub Stats" width="49%" />
 
 </div>
 
@@ -168,7 +176,7 @@ const sarvani = {
 <div align="center">
 
 <!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarvaniVadavalli&layout=compact&hide_border=true&bg_color=0D1117&title_color=89B4FA&text_color=C0C0C0&langs_count=8" alt="Top Languages" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarvaniVadavalli&layout=compact&hide_border=true&bg_color=0D1117&title_color=C8A96E&text_color=A08040&langs_count=8" alt="Top Languages" width="40%" />
 
 </div>
 
@@ -177,13 +185,15 @@ const sarvani = {
 <!-- Activity Graph -->
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SarvaniVadavalli&bg_color=0D1117&color=89B4FA&line=6C8EBF&point=C0C0C0&area=true&area_color=0d2144&hide_border=true" width="98%" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SarvaniVadavalli&bg_color=0D1117&color=C8A96E&line=8B6914&point=C8A96E&area=true&area_color=5A4020&hide_border=true" width="98%" alt="Activity Graph" />
 
 </div>
 
 <br/>
 
----
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1A0E00,100:0D1117&height=1" width="80%"/></div>
+
+<br/>
 
 <!-- ─── CONTRIBUTION SNAKE ─────────────────────────────────────────────────── -->
 <!--
@@ -236,7 +246,9 @@ const sarvani = {
 
 <br/>
 
----
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1A0E00,100:0D1117&height=1" width="80%"/></div>
+
+<br/>
 
 <!-- ─── QUOTE ──────────────────────────────────────────────────────────────── -->
 
@@ -249,7 +261,9 @@ const sarvani = {
 
 <br/>
 
----
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1A0E00,100:0D1117&height=1" width="80%"/></div>
+
+<br/>
 
 <!-- ─── FOOTER ─────────────────────────────────────────────────────────────── -->
 
@@ -266,19 +280,19 @@ const sarvani = {
 <!-- NOTE: Replace the LinkedIn and email links below with your real ones -->
 
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=C8A96E" />
 </a>
 &nbsp;
 <a href="mailto:YOUR.EMAIL@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-333333?style=flat-square&logo=gmail&logoColor=EA4335" />
+  <img src="https://img.shields.io/badge/Gmail-0D1117?style=flat-square&logo=gmail&logoColor=C8A96E" />
 </a>
 &nbsp;
 <a href="https://github.com/SarvaniVadavalli">
-  <img src="https://img.shields.io/badge/GitHub-21262D?style=flat-square&logo=github&logoColor=C0C0C0" />
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=C8A96E" />
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d2144,100:0d1117&height=80&section=footer" width="100%" alt="Footer Wave" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:1A0E00,70:2B1A00,100:0D1117&height=90&section=footer" width="100%" alt="Footer Wave" />
 
 </div>
