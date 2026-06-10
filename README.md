@@ -27,9 +27,6 @@
 <a href="https://github.com/SarvaniVadavalli" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-
-<br/><br/>
-
 <!-- Visitor counter -->
 <img src="https://komarev.com/ghpvc/?username=SarvaniVadavalli&label=Profile+Views&color=7c3aed&style=flat-square" alt="Visitor Counter"/>
 
