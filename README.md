@@ -2,14 +2,10 @@
 <!-- ─── HEADER ─────────────────────────────────────────────────────────────── -->
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a0533,100:0a0e27&height=200&section=header&text=Sarvani%20Vadavalli&fontSize=52&fontColor=c792ea&fontAlignY=38&desc=AIML%20Student%20%7C%20Aspiring%20Software%20Engineer&descSize=18&descColor=7fdbca&descAlignY=60&animation=fadeIn" width="100%" alt="Header" />
-
+  <!-- Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0A06,50:2C1A08,100:1A1006&height=200&section=header&text=Sarvani%20Vadavalli&fontSize=46&fontColor=C8A96E&animation=twinkling&fontAlignY=38&desc=AI/ML%20Enthusiast%20%7C%20Aspiring%20Software%20Engineer%20%7C%20Problem%20Solver&descAlignY=60&descSize=15&descColor=8B6914" />
 <!-- Typing SVG -->
-<a href="https://github.com/SarvaniVadavalli">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7FDBCA&center=true&vCenter=true&width=600&lines=Building+toward+Big+Tech+%F0%9F%9A%80;AIML+%7C+Full+Stack+%7C+DSA;Open+to+Internships+%26+Collaborations;Always+learning%2C+always+growing." alt="Typing SVG" />
-</a>
-
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=18&pause=1200&color=C8A96E&center=true&vCenter=true&repeat=true&width=750&lines=const+sarvani+%3D+new+Developer('AI+%26+ML');+%F0%9F%A4%96;sarvani.learn('DSA+%26+System+Design');+%F0%9F%93%9A;sarvani.build('AI-Powered+Applications');+%F0%9F%9A%80;sarvani.explore('Full+Stack+Development');+%F0%9F%92%BB;sarvani.status+%3D+'Open+to+Internships';+%F0%9F%A4%9D" alt="Typing SVG" />
 <br/>
 
 <!-- ─── SOCIAL BADGES ────────────────────────────────────────────────── -->
