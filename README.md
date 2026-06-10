@@ -3,13 +3,11 @@
 
 <div align="center">
 <!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a0533,100:0a0e27&height=200&section=header&text=Sarvani%20Vadavalli&fontSize=52&fontColor=c792ea&fontAlignY=38&desc=AI/ML%20Enthusiast%20%7C%20Aspiring%20Software%20Engineer%20%7C%20Lifelong%20Learner&descSize=18&descColor=7fdbca&descAlignY=60&animation=fadeIn" alt="Header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a0533,100:0a0e27&height=200&section=header&text=Sarvani%20Vadavalli&fontSize=52&fontColor=c792ea&fontAlignY=38&desc=AI/ML%20Enthusiast%20%7C%20Software%20Engineer%20%7C%20Full%20Stack%20Developer&descSize=18&descColor=7fdbca&descAlignY=60&animation=fadeIn" alt="Header" />
 
 <br>
-
 <!-- Typing SVG -->
-<!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=18&pause=1200&color=7FDBCA&center=true&vCenter=true&repeat=true&width=780&lines=const+sarvani+%3D+new+Developer('AI+%26+ML');+🤖;sarvani.learn('DSA+%26+System+Design');+📚;sarvani.build('AI-Powered+Applications');+🚀;sarvani.explore('Full+Stack+Development');+💻;sarvani.status+%3D+'Open+to+Internships';+🤝" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=18&pause=1200&color=7FDBCA&center=true&vCenter=true&repeat=true&width=750&lines=const+sarvani+%3D+new+Developer('AI+%26+ML');sarvani.build('AI-Powered+Applications');sarvani.explore('Full+Stack+Development');sarvani.learn('DSA+%26+System+Design');sarvani.status+%3D+'Open+to+Internships'" alt="Typing SVG" />
 
 <br><br>
 
