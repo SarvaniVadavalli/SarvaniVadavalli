@@ -12,35 +12,32 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a0533,100:0a0e27&height=200&section=header&text=Sarvani%20Vadavalli&fontSize=52&fontColor=c792ea&fontAlignY=38&desc=AIML%20Student%20%7C%20Aspiring%20Software%20Engineer&descSize=18&descColor=7fdbca&descAlignY=60&animation=fadeIn" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0d2144,100:0d1117&height=160&section=header&text=Sarvani%20Vadavalli&fontSize=46&fontColor=E6EDF3&fontAlignY=42&desc=AIML%20Student%20%7C%20Aspiring%20Software%20Engineer&descSize=16&descColor=C0C0C0&descAlignY=64&animation=fadeIn" width="100%" alt="Header" />
 
 <!-- Typing SVG -->
 <a href="https://github.com/SarvaniVadavalli">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7FDBCA&center=true&vCenter=true&width=600&lines=Building+toward+Big+Tech+%F0%9F%9A%80;AIML+%7C+Full+Stack+%7C+DSA;Open+to+Internships+%26+Collaborations;Always+learning%2C+always+growing." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&pause=1200&color=89B4FA&center=true&vCenter=true&width=560&lines=Building+toward+Big+Tech;AIML+%7C+Full+Stack+%7C+DSA;Open+to+Internships+%26+Collaborations;Always+learning%2C+always+growing." alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- ─── SOCIAL BADGES ────────────────────────────────────────────────── -->
-<!-- NOTE: Replace the LinkedIn URL below with your actual profile link  -->
-<!-- NOTE: Replace the Gmail address below with your actual email        -->
+<!-- ─── SOCIAL BADGES ─────────────────────────────────────────────────── -->
+<!-- NOTE: Replace the LinkedIn URL below with your actual profile link   -->
+<!-- NOTE: Replace the Gmail address below with your actual email         -->
 
-<a href="https://www.linkedin.com/in/sarvani-vadavalli-94a501324/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
-<a href="mailto:sarvanikutti@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+<a href="mailto:YOUR.EMAIL@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-333333?style=flat-square&logo=gmail&logoColor=EA4335" alt="Gmail"/>
 </a>
 &nbsp;
 <a href="https://github.com/SarvaniVadavalli" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-21262D?style=flat-square&logo=github&logoColor=C0C0C0" alt="GitHub"/>
 </a>
-
-<br/><br/>
-
-<!-- Visitor counter -->
-<img src="https://komarev.com/ghpvc/?username=SarvaniVadavalli&label=Profile+Views&color=7c3aed&style=flat-square" alt="Visitor Counter"/>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=SarvaniVadavalli&label=Profile+Views&color=6C8EBF&style=flat-square" alt="Visitor Counter"/>
 
 </div>
 
@@ -103,6 +100,8 @@ const sarvani = {
 | 01 | [**UniMeet**](#) | Full-stack MERN application enabling students to connect and collaborate through a unified campus platform. | `MongoDB` `Express` `React` `Node.js` |
 | 02 | [**Deep-Fake-Project**](#) | Python-based project demonstrating core programming concepts and practical problem-solving techniques. | `Python` |
 | 03 | [**DBMS-Hospital-Management**](#) | Database system for managing hospital operations, patient records, and staff workflows. | `SQL` `DBMS` |
+| 04 | *Coming Soon* | — | — |
+| 05 | *Coming Soon* | — | — |
 
 </div>
 
@@ -157,10 +156,10 @@ const sarvani = {
 <div align="center">
 
 <!-- GitHub Streak -->
-<img src="https://streak-stats.demolab.com?user=SarvaniVadavalli&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=7c3aed&fire=c792ea&currStreakLabel=7fdbca&sideLabels=7fdbca&currStreakNum=c792ea&sideNums=c792ea&dates=555e7a" alt="GitHub Streak" width="49%" />
+<img src="https://streak-stats.demolab.com?user=SarvaniVadavalli&hide_border=true&background=0D1117&ring=89B4FA&fire=6C8EBF&currStreakLabel=89B4FA&sideLabels=C0C0C0&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=6C8EBF&stroke=21262D" alt="GitHub Streak" width="49%" />
 
 <!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=SarvaniVadavalli&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c792ea&icon_color=7fdbca&text_color=c9d1d9&rank_icon=github" alt="GitHub Stats" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=SarvaniVadavalli&show_icons=true&hide_border=true&bg_color=0D1117&title_color=89B4FA&icon_color=6C8EBF&text_color=C0C0C0&rank_icon=github" alt="GitHub Stats" width="49%" />
 
 </div>
 
@@ -169,7 +168,7 @@ const sarvani = {
 <div align="center">
 
 <!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarvaniVadavalli&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c792ea&text_color=c9d1d9&langs_count=8" alt="Top Languages" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarvaniVadavalli&layout=compact&hide_border=true&bg_color=0D1117&title_color=89B4FA&text_color=C0C0C0&langs_count=8" alt="Top Languages" width="40%" />
 
 </div>
 
@@ -178,7 +177,7 @@ const sarvani = {
 <!-- Activity Graph -->
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SarvaniVadavalli&theme=tokyo-night&bg_color=0d1117&color=c792ea&line=7c3aed&point=7fdbca&area=true&hide_border=true" width="98%" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SarvaniVadavalli&bg_color=0D1117&color=89B4FA&line=6C8EBF&point=C0C0C0&area=true&area_color=0d2144&hide_border=true" width="98%" alt="Activity Graph" />
 
 </div>
 
@@ -244,7 +243,7 @@ const sarvani = {
 <div align="center">
 <h2>◈ &nbsp;Today's Dev Wisdom</h2>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Developer Quote" width="75%" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" alt="Developer Quote" width="75%" />
 
 </div>
 
@@ -256,32 +255,30 @@ const sarvani = {
 
 <div align="center">
 
-<br/>
-
-```
-  ✦  Building toward Big Tech  ✦
-```
-
-*Open to internships, collaborations, and learning opportunities.*
+<sub>✦ &nbsp; Building toward Big Tech &nbsp; ✦</sub>
 
 <br/>
+
+<sub><i>Open to internships, collaborations, and learning opportunities.</i></sub>
+
+<br/><br/>
 
 <!-- NOTE: Replace the LinkedIn and email links below with your real ones -->
 
-<a href="https://www.linkedin.com/in/sarvani-vadavalli-94a501324/">
-  <img src="https://img.shields.io/badge/Connect on LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
-<a href="mailto:YOUR.sarvanikutti@gmail.com">
-  <img src="https://img.shields.io/badge/Send a Mail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+<a href="mailto:YOUR.EMAIL@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-333333?style=flat-square&logo=gmail&logoColor=EA4335" />
 </a>
 &nbsp;
 <a href="https://github.com/SarvaniVadavalli">
-  <img src="https://img.shields.io/badge/Follow on GitHub-161b22?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-21262D?style=flat-square&logo=github&logoColor=C0C0C0" />
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,50:1a0533,100:0d1117&height=100&section=footer" width="100%" alt="Footer Wave" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d2144,100:0d1117&height=80&section=footer" width="100%" alt="Footer Wave" />
 
 </div>
