@@ -8,7 +8,8 @@
 <br>
 
 <!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1200&color=7FDBCA&center=true&vCenter=true&repeat=true&width=800&lines=Building+toward+Big+Tech+%F0%9F%9A%80;AI%2FML+%7C+Full+Stack+%7C+DSA;Building+AI-Powered+Applications;Open+to+Internships+%26+Collaborations;Always+learning%2C+always+growing." alt="Typing SVG" />
+<!-- Typing SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=18&pause=1200&color=7FDBCA&center=true&vCenter=true&repeat=true&width=780&lines=const+sarvani+%3D+new+Developer('AI+%26+ML');+🤖;sarvani.learn('DSA+%26+System+Design');+📚;sarvani.build('AI-Powered+Applications');+🚀;sarvani.explore('Full+Stack+Development');+💻;sarvani.status+%3D+'Open+to+Internships';+🤝" alt="Typing SVG" />
 
 <br><br>
 
