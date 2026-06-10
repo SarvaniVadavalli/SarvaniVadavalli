@@ -1,12 +1,3 @@
-      <!-- ═══════════════════════════════════════════════════════════════════════════
-     SARVANI VADAVALLI — GitHub Profile README
-     ───────────────────────────────────────────
-     HOW TO USE THIS FILE:
-     1. Replace every  ← NOTE  comment with your real links / usernames.
-     2. For the snake animation, follow the note in Section 6.
-     3. Push this file to a repo named exactly:  SarvaniVadavalli/SarvaniVadavalli
-        (username/username "special" repo — GitHub renders it on your profile.)
-     ════════════════════════════════════════════════════════════════════════════ -->
 
 <!-- ─── HEADER ─────────────────────────────────────────────────────────────── -->
 
@@ -25,11 +16,11 @@
 <!-- NOTE: Replace the LinkedIn URL below with your actual profile link  -->
 <!-- NOTE: Replace the Gmail address below with your actual email        -->
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE" target="_blank">
+<a href="https://www.linkedin.com/in/sarvani-vadavalli-94a501324/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
-<a href="mailto:YOUR.EMAIL@gmail.com">
+<a href="mailto:sarvanikutti@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 &nbsp;
@@ -264,27 +255,18 @@ const sarvani = {
   ✦  Building toward Big Tech  ✦
 ```
 
-*Open to internships, collaborations, and learning opportunities.*
+*Open to internships, collaborations & good conversations about software.*
 
 <br/>
 
 <!-- NOTE: Replace the LinkedIn and email links below with your real ones -->
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE">
-  <img src="https://img.shields.io/badge/Connect on LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="mailto:YOUR.EMAIL@gmail.com">
-  <img src="https://img.shields.io/badge/Send a Mail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://github.com/SarvaniVadavalli">
-  <img src="https://img.shields.io/badge/Follow on GitHub-161b22?style=flat-square&logo=github&logoColor=white" />
-</a>
+**📬 [LinkedIn](https://www.linkedin.com/in/sarvani-vadavalli-94a501324/) &nbsp;·&nbsp; [Email](mailto:sarvanikutti@gmail.com) &nbsp;·&nbsp; [GitHub](https://github.com/SarvaniVadavalli)**
 
-<br/><br/>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,50:1a0533,100:0d1117&height=100&section=footer" width="100%" alt="Footer Wave" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0A06,50:2C1A08,100:1A1006&height=100&section=footer&animation=fadeIn" />
+
 
 </div>
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
