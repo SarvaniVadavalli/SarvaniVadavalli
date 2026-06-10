@@ -103,8 +103,6 @@ const sarvani = {
 | 01 | [**UniMeet**](#) | Full-stack MERN application enabling students to connect and collaborate through a unified campus platform. | `MongoDB` `Express` `React` `Node.js` |
 | 02 | [**Deep-Fake-Project**](#) | Python-based project demonstrating core programming concepts and practical problem-solving techniques. | `Python` |
 | 03 | [**DBMS-Hospital-Management**](#) | Database system for managing hospital operations, patient records, and staff workflows. | `SQL` `DBMS` |
-| 04 | *Coming Soon* | — | — |
-| 05 | *Coming Soon* | — | — |
 
 </div>
 
