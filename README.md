@@ -3,14 +3,10 @@
 
 <div align="center">
 <!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a0533,100:0a0e27&height=200&section=header&text=Sarvani%20Vadavalli&fontSize=52&fontColor=c792ea&fontAlignY=38&desc=AI/ML%20Enthusiast%20%7C%20Software%20Engineer%20%7C%20Full%20Stack%20Developer&descSize=18&descColor=7fdbca&descAlignY=60&animation=fadeIn" alt="Header" />
-
-<br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:052E16,100:071A12&height=200&section=header&text=Sarvani%20Vadavalli&fontSize=52&fontColor=4ADE80&fontAlignY=38&desc=AI/ML%20Enthusiast%20%7C%20Software%20Engineer%20%7C%20Full%20Stack%20Developer&descSize=18&descColor=86EFAC&descAlignY=60&animation=fadeIn" alt="Header" />
 <!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=18&pause=1200&color=7FDBCA&center=true&vCenter=true&repeat=true&width=750&lines=const+sarvani+%3D+new+Developer('AI+%26+ML');sarvani.build('AI-Powered+Applications');sarvani.explore('Full+Stack+Development');sarvani.learn('DSA+%26+System+Design');sarvani.status+%3D+'Open+to+Internships'" alt="Typing SVG" />
-
-<br><br>
-
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=18&pause=1200&color=86EFAC&center=true&vCenter=true&repeat=true&width=800&lines=const+sarvani+%3D+new+Developer('AI+%26+ML');sarvani.build('AI-Powered+Applications');sarvani.explore('Full+Stack+Development');sarvani.learn('DSA+%26+System+Design');sarvani.status+%3D+'Open+to+Internships'" alt="Typing SVG" />
+</br>
 <!-- ─── SOCIAL BADGES ────────────────────────────────────────────────── -->
 <!-- NOTE: Replace the LinkedIn URL below with your actual profile link  -->
 <!-- NOTE: Replace the Gmail address below with your actual email        -->
@@ -37,9 +33,7 @@
 
 <!-- ─── ABOUT ME ────────────────────────────────────────────────────────────── -->
 
-<div align="center">
-<h2>◈ &nbsp;About Me</h2>
-</div>
+## 👤 Profile
 
 ```javascript
 const sarvani = {
@@ -71,9 +65,7 @@ const sarvani = {
 
 <!-- ─── FEATURED PROJECTS ───────────────────────────────────────────────────── -->
 
-<div align="center">
-<h2>◈ &nbsp;Featured Projects</h2>
-</div>
+## 🚀 Experiments
 
 <!-- NOTE: Replace each  #  in the "Project" links with the actual repo URL  -->
 <!-- e.g.  href="https://github.com/SarvaniVadavalli/UniMeet"               -->
@@ -94,9 +86,7 @@ const sarvani = {
 
 <!-- ─── TECH STACK ──────────────────────────────────────────────────────────── -->
 
-<div align="center">
-<h2>◈ &nbsp;Tech DNA</h2>
-</div>
+## 🧬 Tech DNA
 
 ```
   ╔══════════════════════════════════════════════════════════╗
@@ -116,13 +106,7 @@ const sarvani = {
 <!-- Skill Icons -->
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,python,javascript,html,css&theme=dark" alt="Languages" />
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,django,flask&theme=dark" alt="Frameworks" />
-<br/>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql&theme=dark" alt="Databases" />
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter&theme=dark" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,react,nodejs,express,django,flask,mysql,mongodb,postgresql,git,github,vscode&theme=dark&perline=5" />
 
 </div>
 
@@ -132,35 +116,23 @@ const sarvani = {
 
 <!-- ─── GITHUB STATS ────────────────────────────────────────────────────────── -->
 
-<div align="center">
-<h2>◈ &nbsp;GitHub Stats</h2>
-</div>
-
+ ## 📊 Metrics
 <div align="center">
 
-<!-- GitHub Streak -->
-<img src="https://streak-stats.demolab.com?user=SarvaniVadavalli&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=7c3aed&fire=c792ea&currStreakLabel=7fdbca&sideLabels=7fdbca&currStreakNum=c792ea&sideNums=c792ea&dates=555e7a" alt="GitHub Streak" width="49%" />
+<!-- Streak Stats -->
+<img width="70%" src="https://streak-stats.demolab.com?user=SarvaniVadavalli&theme=transparent&hide_border=true&background=0D1117&ring=4ADE80&fire=4ADE80&currStreakLabel=86EFAC&sideLabels=86EFAC&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=6B7280"/>
 
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=SarvaniVadavalli&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c792ea&icon_color=7fdbca&text_color=c9d1d9&rank_icon=github" alt="GitHub Stats" width="49%" />
+<br><br>
 
-</div>
+<!-- GitHub Stats + Top Languages -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SarvaniVadavalli&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=4ADE80&icon_color=86EFAC&text_color=E6EDF3"/>
 
-<br/>
+<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarvaniVadavalli&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&title_color=4ADE80&text_color=E6EDF3"/>
 
-<div align="center">
+<br><br>
 
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarvaniVadavalli&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c792ea&text_color=c9d1d9&langs_count=8" alt="Top Languages" width="40%" />
-
-</div>
-
-<br/>
-
-<!-- Activity Graph -->
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SarvaniVadavalli&theme=tokyo-night&bg_color=0d1117&color=c792ea&line=7c3aed&point=7fdbca&area=true&hide_border=true" width="98%" alt="Activity Graph" />
+<!-- Contribution Graph -->
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SarvaniVadavalli&bg_color=0D1117&color=4ADE80&line=86EFAC&point=4ADE80&area=true&hide_border=true"/>
 
 </div>
 
@@ -201,9 +173,7 @@ const sarvani = {
   2.  Run the workflow once manually (Actions → Generate Snake Animation → Run workflow).
   3.  The images will appear at the URLs used below automatically.
 -->
-
-<div align="center">
-<h2>◈ &nbsp;Contribution Activity</h2>
+## 🐍 Activity
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
@@ -223,8 +193,7 @@ const sarvani = {
 
 <!-- ─── QUOTE ──────────────────────────────────────────────────────────────── -->
 
-<div align="center">
-<h2>◈ &nbsp;Today's Dev Wisdom</h2>
+## 💭 Wisdom
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Developer Quote" width="75%" />
 
