@@ -120,22 +120,22 @@ const sarvani = {
 <div align="center">
 
 <!-- Streak Stats -->
-<img width="70%" src="https://streak-stats.demolab.com?user=SarvaniVadavalli&theme=transparent&hide_border=true&background=0D1117&ring=4ADE80&fire=4ADE80&currStreakLabel=86EFAC&sideLabels=86EFAC&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=6B7280"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=SarvaniVadavalli&theme=dark&hide_border=false&background=161B22&stroke=4ADE80&ring=4ADE80&fire=4ADE80&currStreakLabel=86EFAC&sideLabels=86EFAC&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=6B7280&border=4ADE80"/>
 
 <br><br>
 
-<!-- GitHub Stats + Top Languages -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SarvaniVadavalli&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=4ADE80&icon_color=86EFAC&text_color=E6EDF3"/>
+<!-- GitHub Stats -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SarvaniVadavalli&show_icons=true&theme=dark&hide_border=false&bg_color=161B22&title_color=4ADE80&icon_color=86EFAC&text_color=E6EDF3&border_color=4ADE80"/>
 
-<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarvaniVadavalli&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&title_color=4ADE80&text_color=E6EDF3"/>
+<!-- Top Languages -->
+<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarvaniVadavalli&layout=compact&theme=dark&hide_border=false&bg_color=161B22&title_color=4ADE80&text_color=E6EDF3&border_color=4ADE80"/>
 
 <br><br>
 
 <!-- Contribution Graph -->
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SarvaniVadavalli&bg_color=0D1117&color=4ADE80&line=86EFAC&point=4ADE80&area=true&hide_border=true"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SarvaniVadavalli&bg_color=161B22&color=4ADE80&line=86EFAC&point=4ADE80&area_color=14532D&area=true&hide_border=false&custom_title=Sarvani%20Vadavalli's%20Contribution%20Graph"/>
 
 </div>
-
 <br/>
 
 ---
@@ -175,14 +175,15 @@ const sarvani = {
 -->
 ## 🐍 Activity
 
+<div align="center">
+
 <picture>
   <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/SarvaniVadavalli/SarvaniVadavalli/output/github-contribution-grid-snake-dark.svg" />
+    srcset="https://raw.githubusercontent.com/SarvaniVadavalli/SarvaniVadavalli/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/SarvaniVadavalli/SarvaniVadavalli/output/github-contribution-grid-snake.svg" />
+    srcset="https://raw.githubusercontent.com/SarvaniVadavalli/SarvaniVadavalli/output/github-snake.svg" />
   <img alt="GitHub Contribution Snake"
-       src="https://raw.githubusercontent.com/SarvaniVadavalli/SarvaniVadavalli/output/github-contribution-grid-snake-dark.svg"
-       width="98%" />
+    src="https://raw.githubusercontent.com/SarvaniVadavalli/SarvaniVadavalli/output/github-snake-dark.svg" />
 </picture>
 
 </div>
@@ -195,7 +196,9 @@ const sarvani = {
 
 ## 💭 Wisdom
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Developer Quote" width="75%" />
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
 
 </div>
 
