@@ -268,11 +268,11 @@ const sarvani = {
 
 <!-- NOTE: Replace the LinkedIn and email links below with your real ones -->
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE">
+<a href="https://www.linkedin.com/in/sarvani-vadavalli-94a501324/">
   <img src="https://img.shields.io/badge/Connect on LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
-<a href="mailto:YOUR.EMAIL@gmail.com">
+<a href="mailto:YOUR.sarvanikutti@gmail.com">
   <img src="https://img.shields.io/badge/Send a Mail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
